@@ -1,0 +1,2 @@
+# MWRRDGR-web-app
+A web app created for the Smart India Hackathon 2018 for the MWRRDGR ministry to meet their problem statement.This web app serves as a central repository for the officials to verify,upload and access the data availabLe for various water bodies. It allows the oficials to view the data in tabular,graphical form as well. There exists an option to downoad or mail  the reports in PDF format.It also provides general or limited view for the public.
